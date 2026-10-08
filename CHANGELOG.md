@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.1
+
+- Keep the gap between apps in the list while their updates are being checked.
+- Build cleanly with the lints in newer Rust toolchains.
+
 ## 0.5.0
 
 - Redesign the manager window: an app list with search and Installed / Not installed groups, an Overview page for Update all and Update all sources, and a page for each app with its description, actions, details and tools.

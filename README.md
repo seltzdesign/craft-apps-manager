@@ -39,7 +39,7 @@ Screenshots show the macOS 0.5.0 release with a demo library.
 
 ## Getting started
 
-Version **0.5.0** includes Windows x64/x86 packages, experimental Linux x64/x86 packages and an experimental macOS package for Apple silicon and Intel Macs. Download the format for your system from the Releases page:
+Version **0.5.1** includes Windows x64/x86 packages, experimental Linux x64/x86 packages and an experimental macOS package for Apple silicon and Intel Macs. Download the format for your system from the Releases page:
 
 | System | Installation | Portable |
 | --- | --- | --- |
